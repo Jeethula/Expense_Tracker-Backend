@@ -1,0 +1,1 @@
+Sample Content in this file that will be printed on the screen by making use of Nodejs file system sync and async operation.
